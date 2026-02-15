@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer - Software Developer</h3>
 
 
-- 📫 How to reach me **ahmad.aboud2002@gmail.com**
+- 📫 How to reach me **abboud4work@gmail.com**
 
 - ⚡ Fun fact **A pregnant horse has 2 horsepower**
 
