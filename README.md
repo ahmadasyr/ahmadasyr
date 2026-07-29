@@ -88,10 +88,7 @@ I have habit of placing my keyboard on my lap instead of on the table :)
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmadasyr&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=B388FF&icon_color=B388FF&text_color=c9d1d9&count_private=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadasyr&theme=react&hide_border=true&background=0D1117&stroke=B388FF&ring=B388FF&fire=B388FF&currStreakLabel=B388FF"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadasyr&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=B388FF&text_color=c9d1d9&langs_count=10"/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadasyr&theme=react-dark&hide_border=true&bg_color=0D1117&color=B388FF&line=B388FF&point=ffffff&area=true"/>
 
