@@ -25,12 +25,17 @@
 const ahmad = {
   role: "Software Engineering Team Lead",
   actualJob: "Somehow understanding what the client wants (they don't know themselves)",
-  builds: ["multi-tenant systems", "ERP platforms", "things that shouldn't break at 3am", "games... sometimes."],
+  builds: [
+    "multi-tenant systems",
+    "ERP platforms",
+    "things that shouldn't break at 3am",
+    "games... sometimes.",
+  ],
   languages: [
-  "English",
-  "Arabic",
-  "Turkish",
-  "German"
+    "English",
+    "Arabic",
+    "Turkish",
+    "German",
   ],
   writesMostly: "TypeScript",
   motto: "Power to the local dreamer",
@@ -49,7 +54,7 @@ I have habit of placing my keyboard on my lap instead of on the table :)
 **Languages** - the ones I reach for, and the ones that reach for me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp,cs,c,java,bash&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,bash&theme=dark"/>
 </p>
 
 **Frontend** - where the users actually notice if I mess up
@@ -107,8 +112,6 @@ I have habit of placing my keyboard on my lap instead of on the table :)
 <!-- ══════════════════════════ FOOTER ══════════════════════════ -->
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ahmadasyr&label=Profile%20views&color=B388FF&style=flat"/>
 
 <br/><br/>
 <sub>If something's on fire, it's probably intentional, cuz I test on prod.</sub>
