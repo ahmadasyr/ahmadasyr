@@ -103,11 +103,13 @@ I have habit of placing my keyboard on my lap instead of on the table :)
 
 ## `featured.projects`
 
-| Project | What it does | Role |
-| :--- | :--- | :--- |
-| **YDM Lean Platform** | Imagine Office 365, except every tool actually talks to the others, there are 22 of them, and the whole thing exists to out-lean the factories that invented lean | Lead Software Engineer (95% of the repo) |
-| **TexERP** | Full ERP for textile factories with IoT sensors feeding real-time analytics | Built it all by myself actually (+300,000 lines of code before coding agents existed) |
-| **Kadinle** | Fast-fashion store juggling 5,000+ products and a points system | Lead Dev & Back-end |
+| Project               | What it does                                                                                                                                                                            | Role                                                                         |
+| :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
+| **[YDM Lean Platform](https://www.yonetimdanismanlikmerkezi.com/en/software)** | Imagine Office 365, except every tool actually talks to the others, there are 22 of them, and the whole thing exists to out-lean the factories that invented lean                       | Lead Software Engineer (95% of the repo)                                     |
+| **TexERP**            | Full ERP for textile factories with IoT sensors feeding real-time production analytics, planning, inventory, quality control, and manufacturing operations                              | Built it all by myself (+300,000 lines of code before coding agents existed) |
+| **[Doppelgänger](https://playdoppel.app)**      | Browser-based real-time social deduction platform with four distinct game modes, anonymous matchmaking, multiplayer infrastructure, subscriptions, localization, and anti-cheat systems | Creator & Solo Developer                                                     |
+| **[Jarvis](https://github.com/ahmadasyr/jarvis)**            | Local-first AI desktop assistant with voice control, secure tool execution, computer automation, deployment management, and a safety model built around explicit user confirmation      | Creator & Solo Developer                                                     |
+| **Kadinle**           | Fast-fashion e-commerce platform managing 5,000+ products, loyalty rewards, inventory, payments, and order management                                                                   | Lead Developer & Backend                                                     |
 
 <!-- ══════════════════════════ FOOTER ══════════════════════════ -->
 
